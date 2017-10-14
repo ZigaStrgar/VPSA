@@ -7,7 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		517A68271F8FA0D300A5B6CF /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 517A68261F8FA0D300A5B6CF /* main.c */; };
+		517A68321F8FA0FE00A5B6CF /* predavanje_2.c in Sources */ = {isa = PBXBuildFile; fileRef = 517A68311F8FA0FE00A5B6CF /* predavanje_2.c */; };
+		517A683C1F8FC96100A5B6CF /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 517A683B1F8FC96100A5B6CF /* main.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -20,15 +21,33 @@
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
+		517A68371F8FC96100A5B6CF /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		517A68231F8FA0D300A5B6CF /* VPSA */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = VPSA; sourceTree = BUILT_PRODUCTS_DIR; };
-		517A68261F8FA0D300A5B6CF /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		517A68311F8FA0FE00A5B6CF /* predavanje_2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = predavanje_2.c; sourceTree = "<group>"; };
+		517A68391F8FC96100A5B6CF /* Naloga1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Naloga1; sourceTree = BUILT_PRODUCTS_DIR; };
+		517A683B1F8FC96100A5B6CF /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		517A68201F8FA0D300A5B6CF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		517A68361F8FC96100A5B6CF /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -50,6 +69,7 @@
 			isa = PBXGroup;
 			children = (
 				517A68231F8FA0D300A5B6CF /* VPSA */,
+				517A68391F8FC96100A5B6CF /* Naloga1 */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -57,9 +77,42 @@
 		517A68251F8FA0D300A5B6CF /* VPSA */ = {
 			isa = PBXGroup;
 			children = (
-				517A68261F8FA0D300A5B6CF /* main.c */,
+				517A682F1F8FA0E700A5B6CF /* Vaje */,
+				517A682E1F8FA0E300A5B6CF /* Naloge */,
+				517A682D1F8FA0DA00A5B6CF /* Predavanja */,
 			);
 			path = VPSA;
+			sourceTree = "<group>";
+		};
+		517A682D1F8FA0DA00A5B6CF /* Predavanja */ = {
+			isa = PBXGroup;
+			children = (
+				517A68311F8FA0FE00A5B6CF /* predavanje_2.c */,
+			);
+			path = Predavanja;
+			sourceTree = "<group>";
+		};
+		517A682E1F8FA0E300A5B6CF /* Naloge */ = {
+			isa = PBXGroup;
+			children = (
+				517A683A1F8FC96100A5B6CF /* Naloga1 */,
+			);
+			path = Naloge;
+			sourceTree = "<group>";
+		};
+		517A682F1F8FA0E700A5B6CF /* Vaje */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Vaje;
+			sourceTree = "<group>";
+		};
+		517A683A1F8FC96100A5B6CF /* Naloga1 */ = {
+			isa = PBXGroup;
+			children = (
+				517A683B1F8FC96100A5B6CF /* main.c */,
+			);
+			path = Naloga1;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -82,6 +135,23 @@
 			productReference = 517A68231F8FA0D300A5B6CF /* VPSA */;
 			productType = "com.apple.product-type.tool";
 		};
+		517A68381F8FC96100A5B6CF /* Naloga1 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 517A683D1F8FC96100A5B6CF /* Build configuration list for PBXNativeTarget "Naloga1" */;
+			buildPhases = (
+				517A68351F8FC96100A5B6CF /* Sources */,
+				517A68361F8FC96100A5B6CF /* Frameworks */,
+				517A68371F8FC96100A5B6CF /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Naloga1;
+			productName = Naloga1;
+			productReference = 517A68391F8FC96100A5B6CF /* Naloga1 */;
+			productType = "com.apple.product-type.tool";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -92,6 +162,10 @@
 				ORGANIZATIONNAME = "Ziga Strgar";
 				TargetAttributes = {
 					517A68221F8FA0D300A5B6CF = {
+						CreatedOnToolsVersion = 9.0;
+						ProvisioningStyle = Automatic;
+					};
+					517A68381F8FC96100A5B6CF = {
 						CreatedOnToolsVersion = 9.0;
 						ProvisioningStyle = Automatic;
 					};
@@ -110,6 +184,7 @@
 			projectRoot = "";
 			targets = (
 				517A68221F8FA0D300A5B6CF /* VPSA */,
+				517A68381F8FC96100A5B6CF /* Naloga1 */,
 			);
 		};
 /* End PBXProject section */
@@ -119,7 +194,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				517A68271F8FA0D300A5B6CF /* main.c in Sources */,
+				517A68321F8FA0FE00A5B6CF /* predavanje_2.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		517A68351F8FC96100A5B6CF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				517A683C1F8FC96100A5B6CF /* main.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -247,6 +330,24 @@
 			};
 			name = Release;
 		};
+		517A683E1F8FC96100A5B6CF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = MP6X64M7KA;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		517A683F1F8FC96100A5B6CF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = MP6X64M7KA;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -264,6 +365,15 @@
 			buildConfigurations = (
 				517A682B1F8FA0D300A5B6CF /* Debug */,
 				517A682C1F8FA0D300A5B6CF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		517A683D1F8FC96100A5B6CF /* Build configuration list for PBXNativeTarget "Naloga1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				517A683E1F8FC96100A5B6CF /* Debug */,
+				517A683F1F8FC96100A5B6CF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
