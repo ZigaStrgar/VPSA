@@ -9,7 +9,6 @@
 #define USER_LIMIT 2
 
 struct arguments {
-    int connection_number;
     int sock;
     bool terminate;
     bool reuse;
@@ -23,6 +22,7 @@ int main(int argc, char **argv){
 
 	//Spremenjlivka za preverjane izhodnega statusa funkcij
 	int iResult;
+    
 
 	/*
 	Ustvarimo nov vtiè, ki bo poslušal
@@ -70,16 +70,6 @@ int main(int argc, char **argv){
 	*/
 	while (1)
 	{
-        for (int i = 0; i < USER_LIMIT; i++) {
-            if(args[i].terminate) {
-                pthread_join(threads[i], NULL);
-                close(args[i].sock);
-                args[i].terminate = false;
-                args[i].reuse = true;
-            }
-        }
-
-        
         clientSock = accept(listener,NULL,NULL);
         if (clientSock == -1) {
             printf("Accept failed\n");
@@ -87,10 +77,12 @@ int main(int argc, char **argv){
             return 1;
         }
         for (int i = 0; i < USER_LIMIT; i++) {
-            if(args[i].reuse){
+            if(args[i].terminate){
+                if(args[i].terminate){
+                    close(args[i].sock);
+                }
                 args[i].sock = clientSock;
                 args[i].terminate = false;
-                args[i].reuse = false;
                 pthread_create(&threads[i], NULL, *thread_action, &args[i]);
                 break;
             }
