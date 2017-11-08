@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <pthread.h>
 #include "pthread_barrier.h"
+#include <time.h>
 
 #include <errno.h>
 
@@ -97,8 +98,8 @@ pthread_barrier_wait(pthread_barrier_t *barrier)
 
 #endif /* __APPLE__ */
 
-#define NTHREADS 32
-#define NELEMENTS 1024
+#define NTHREADS 4
+#define NELEMENTS 2*2*2*2*2*2*2*2*2*2*2*2*2*2*2*2*2*2*2*2*2*2*2*2
 #define STRIPLENGTH NELEMENTS/NTHREADS
 
 pthread_t threads[NTHREADS];
@@ -128,6 +129,10 @@ int main(int argc, const char * argv[]) {
         vecB[i] = 1.0;
     }
     
+    struct timespec start, finish;
+    double elapsed;
+    printf("PARALELNO izvajanje z %d elementi na %d nitih \n", NELEMENTS, NTHREADS);
+    clock_gettime(CLOCK_MONOTONIC, &start);
     for (int i = 0; i < NTHREADS; i++) {
         args[i].id = i;
         args[i].pa = vecA + i * STRIPLENGTH;
@@ -139,10 +144,31 @@ int main(int argc, const char * argv[]) {
     for (int i = 0; i < NTHREADS; i++) {
         pthread_join(threads[i], NULL);
     }
+    clock_gettime(CLOCK_MONOTONIC, &finish);
+    
+    elapsed = (finish.tv_sec - start.tv_sec);
+    elapsed += (finish.tv_nsec - start.tv_nsec) / 1000000000.0;
     
     printf("Skalarni produkt vektorjev: %f\n", partialResults[0]);
+    printf("Time: %f\n", elapsed);
     
     pthread_barrier_destroy(&barrier);
+    
+    printf("\n\nSERIJSKO izvajanje z %d elementi\n", NELEMENTS);
+    
+    double result = 0;
+    
+    clock_gettime(CLOCK_MONOTONIC, &start);
+    for (int i = 0; i < NELEMENTS; i++) {
+        result += vecA[i] * vecB[i];
+    }
+    clock_gettime(CLOCK_MONOTONIC, &finish);
+    
+    elapsed = (finish.tv_sec - start.tv_sec);
+    elapsed += (finish.tv_nsec - start.tv_nsec) / 1000000000.0;
+    
+    printf("Skalarni produkt vektorjev: %f\n", result);
+    printf("Time: %f\n", elapsed);
     
     return 0;
 }
