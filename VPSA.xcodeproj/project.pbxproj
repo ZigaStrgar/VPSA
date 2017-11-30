@@ -7,15 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		51048E7C1FCD8DF000F5AF2D /* kernel_template.cl in Sources */ = {isa = PBXBuildFile; fileRef = 51048E7A1FCD8DF000F5AF2D /* kernel_template.cl */; };
+		51048E7D1FCD8DF000F5AF2D /* template.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 51048E7B1FCD8DF000F5AF2D /* template.cpp */; };
 		511D11BB1FAB0C98008E9A22 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 511D11BA1FAB0C98008E9A22 /* main.c */; };
 		517A68321F8FA0FE00A5B6CF /* predavanje_2.c in Sources */ = {isa = PBXBuildFile; fileRef = 517A68311F8FA0FE00A5B6CF /* predavanje_2.c */; };
 		517A683C1F8FC96100A5B6CF /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 517A683B1F8FC96100A5B6CF /* main.c */; };
 		51A4F7381FB1DD6B004A1FDD /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 51A4F7371FB1DD6B004A1FDD /* main.c */; };
+		51AA86F71FBDD683005FDDB7 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 51AA86F61FBDD683005FDDB7 /* main.c */; };
 		51BAA78D1F9F5B6F00576AA4 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 51BAA78C1F9F5B6F00576AA4 /* main.c */; };
 		51BAA7951F9F6DA700576AA4 /* pthread_barrier.c in Frameworks */ = {isa = PBXBuildFile; fileRef = 51BAA7941F9F6DA700576AA4 /* pthread_barrier.c */; };
 		51BAA79D1FA1C47F00576AA4 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 51BAA79C1FA1C47F00576AA4 /* main.c */; };
+		51C28EBE1FB4467C0094DB37 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 51C28EBD1FB4467C0094DB37 /* main.c */; };
 		51C821201F962E2E0089BDBE /* serverLinux.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 51C8211F1F962E2E0089BDBE /* serverLinux.cpp */; };
 		51C821281F9898160089BDBE /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 51C821271F9898160089BDBE /* main.c */; };
+		51DC10B91FC45AB2000A919C /* kernel.cl in Sources */ = {isa = PBXBuildFile; fileRef = 51DC10B51FC45AB1000A919C /* kernel.cl */; };
+		51DC10BA1FC45AB2000A919C /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 51DC10B71FC45AB2000A919C /* main.cpp */; };
+		51DC10BB1FC45AB2000A919C /* mandelbrot.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 51DC10B81FC45AB2000A919C /* mandelbrot.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -55,6 +62,15 @@
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
+		51AA86F21FBDD683005FDDB7 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
 		51BAA7881F9F5B6F00576AA4 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
@@ -65,6 +81,15 @@
 			runOnlyForDeploymentPostprocessing = 1;
 		};
 		51BAA7981FA1C47F00576AA4 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		51C28EB91FB4467C0094DB37 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -94,24 +119,38 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		51048E7A1FCD8DF000F5AF2D /* kernel_template.cl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.opencl; path = kernel_template.cl; sourceTree = "<group>"; };
+		51048E7B1FCD8DF000F5AF2D /* template.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = template.cpp; sourceTree = "<group>"; };
+		511581391FCFFCB30050F3FF /* scalarProduct.cu */ = {isa = PBXFileReference; lastKnownFileType = text; path = scalarProduct.cu; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.c; };
 		511D11B81FAB0C98008E9A22 /* Predavanje5 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Predavanje5; sourceTree = BUILT_PRODUCTS_DIR; };
 		511D11BA1FAB0C98008E9A22 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		512455651FBD8865008D4D3F /* getdevprop.cu */ = {isa = PBXFileReference; lastKnownFileType = text; path = getdevprop.cu; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.c; };
+		515FD7AC1FBDA08C0082488E /* vectorAddSerial.cu */ = {isa = PBXFileReference; lastKnownFileType = text; path = vectorAddSerial.cu; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.c; };
 		517A68231F8FA0D300A5B6CF /* VPSA */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = VPSA; sourceTree = BUILT_PRODUCTS_DIR; };
 		517A68311F8FA0FE00A5B6CF /* predavanje_2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = predavanje_2.c; sourceTree = "<group>"; };
 		517A68391F8FC96100A5B6CF /* Naloga1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Naloga1; sourceTree = BUILT_PRODUCTS_DIR; };
 		517A683B1F8FC96100A5B6CF /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		51A4F7351FB1DD6B004A1FDD /* Naloga4 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Naloga4; sourceTree = BUILT_PRODUCTS_DIR; };
 		51A4F7371FB1DD6B004A1FDD /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		51AA86F41FBDD683005FDDB7 /* Naloga5 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Naloga5; sourceTree = BUILT_PRODUCTS_DIR; };
+		51AA86F61FBDD683005FDDB7 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		51BAA78A1F9F5B6F00576AA4 /* Naloga3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Naloga3; sourceTree = BUILT_PRODUCTS_DIR; };
 		51BAA78C1F9F5B6F00576AA4 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		51BAA7921F9F6C9D00576AA4 /* pthread_barrier.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = pthread_barrier.h; path = ../../../../Desktop/pthread_barrier.h; sourceTree = "<group>"; };
 		51BAA7941F9F6DA700576AA4 /* pthread_barrier.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = pthread_barrier.c; path = ../../../../Desktop/pthread_barrier.c; sourceTree = "<group>"; };
 		51BAA79A1FA1C47F00576AA4 /* Predavanje4 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Predavanje4; sourceTree = BUILT_PRODUCTS_DIR; };
 		51BAA79C1FA1C47F00576AA4 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		51C28EBB1FB4467C0094DB37 /* Predavanje6 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Predavanje6; sourceTree = BUILT_PRODUCTS_DIR; };
+		51C28EBD1FB4467C0094DB37 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		51C28EC21FB46B830094DB37 /* cuda.cu */ = {isa = PBXFileReference; lastKnownFileType = text; path = cuda.cu; sourceTree = "<group>"; };
 		51C821161F9621680089BDBE /* Naloga2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Naloga2; sourceTree = BUILT_PRODUCTS_DIR; };
 		51C8211F1F962E2E0089BDBE /* serverLinux.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = serverLinux.cpp; sourceTree = "<group>"; };
 		51C821251F9898160089BDBE /* Predavanje3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Predavanje3; sourceTree = BUILT_PRODUCTS_DIR; };
 		51C821271F9898160089BDBE /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		51DC10B51FC45AB1000A919C /* kernel.cl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.opencl; path = kernel.cl; sourceTree = "<group>"; };
+		51DC10B61FC45AB2000A919C /* pgm.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = pgm.h; sourceTree = "<group>"; };
+		51DC10B71FC45AB2000A919C /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		51DC10B81FC45AB2000A919C /* mandelbrot.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = mandelbrot.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -144,6 +183,13 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		51AA86F11FBDD683005FDDB7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		51BAA7871F9F5B6F00576AA4 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -152,6 +198,13 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		51BAA7971FA1C47F00576AA4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		51C28EB81FB4467C0094DB37 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -183,6 +236,17 @@
 			path = Predavanje5;
 			sourceTree = "<group>";
 		};
+		512455641FBD8844008D4D3F /* Cuda */ = {
+			isa = PBXGroup;
+			children = (
+				51C28EC21FB46B830094DB37 /* cuda.cu */,
+				512455651FBD8865008D4D3F /* getdevprop.cu */,
+				515FD7AC1FBDA08C0082488E /* vectorAddSerial.cu */,
+				511581391FCFFCB30050F3FF /* scalarProduct.cu */,
+			);
+			path = Cuda;
+			sourceTree = "<group>";
+		};
 		517A681A1F8FA0D200A5B6CF = {
 			isa = PBXGroup;
 			children = (
@@ -203,6 +267,8 @@
 				51BAA79A1FA1C47F00576AA4 /* Predavanje4 */,
 				511D11B81FAB0C98008E9A22 /* Predavanje5 */,
 				51A4F7351FB1DD6B004A1FDD /* Naloga4 */,
+				51C28EBB1FB4467C0094DB37 /* Predavanje6 */,
+				51AA86F41FBDD683005FDDB7 /* Naloga5 */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -220,6 +286,8 @@
 		517A682D1F8FA0DA00A5B6CF /* Predavanja */ = {
 			isa = PBXGroup;
 			children = (
+				512455641FBD8844008D4D3F /* Cuda */,
+				51C28EBC1FB4467C0094DB37 /* Predavanje6 */,
 				511D11B91FAB0C98008E9A22 /* Predavanje5 */,
 				51BAA79B1FA1C47F00576AA4 /* Predavanje4 */,
 				51C821261F9898160089BDBE /* Predavanje3 */,
@@ -231,6 +299,8 @@
 		517A682E1F8FA0E300A5B6CF /* Naloge */ = {
 			isa = PBXGroup;
 			children = (
+				51DC10B41FC45A41000A919C /* Naloga6 */,
+				51AA86F51FBDD683005FDDB7 /* Naloga5 */,
 				51A4F7361FB1DD6B004A1FDD /* Naloga4 */,
 				51BAA78B1F9F5B6F00576AA4 /* Naloga3 */,
 				51C821171F9621680089BDBE /* Naloga2 */,
@@ -262,6 +332,14 @@
 			path = Naloga4;
 			sourceTree = "<group>";
 		};
+		51AA86F51FBDD683005FDDB7 /* Naloga5 */ = {
+			isa = PBXGroup;
+			children = (
+				51AA86F61FBDD683005FDDB7 /* main.c */,
+			);
+			path = Naloga5;
+			sourceTree = "<group>";
+		};
 		51BAA78B1F9F5B6F00576AA4 /* Naloga3 */ = {
 			isa = PBXGroup;
 			children = (
@@ -287,6 +365,14 @@
 			path = Predavanje4;
 			sourceTree = "<group>";
 		};
+		51C28EBC1FB4467C0094DB37 /* Predavanje6 */ = {
+			isa = PBXGroup;
+			children = (
+				51C28EBD1FB4467C0094DB37 /* main.c */,
+			);
+			path = Predavanje6;
+			sourceTree = "<group>";
+		};
 		51C821171F9621680089BDBE /* Naloga2 */ = {
 			isa = PBXGroup;
 			children = (
@@ -301,6 +387,19 @@
 				51C821271F9898160089BDBE /* main.c */,
 			);
 			path = Predavanje3;
+			sourceTree = "<group>";
+		};
+		51DC10B41FC45A41000A919C /* Naloga6 */ = {
+			isa = PBXGroup;
+			children = (
+				51048E7A1FCD8DF000F5AF2D /* kernel_template.cl */,
+				51048E7B1FCD8DF000F5AF2D /* template.cpp */,
+				51DC10B51FC45AB1000A919C /* kernel.cl */,
+				51DC10B71FC45AB2000A919C /* main.cpp */,
+				51DC10B81FC45AB2000A919C /* mandelbrot.cpp */,
+				51DC10B61FC45AB2000A919C /* pgm.h */,
+			);
+			path = Naloga6;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -374,6 +473,23 @@
 			productReference = 51A4F7351FB1DD6B004A1FDD /* Naloga4 */;
 			productType = "com.apple.product-type.tool";
 		};
+		51AA86F31FBDD683005FDDB7 /* Naloga5 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 51AA86FA1FBDD683005FDDB7 /* Build configuration list for PBXNativeTarget "Naloga5" */;
+			buildPhases = (
+				51AA86F01FBDD683005FDDB7 /* Sources */,
+				51AA86F11FBDD683005FDDB7 /* Frameworks */,
+				51AA86F21FBDD683005FDDB7 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Naloga5;
+			productName = Naloga5;
+			productReference = 51AA86F41FBDD683005FDDB7 /* Naloga5 */;
+			productType = "com.apple.product-type.tool";
+		};
 		51BAA7891F9F5B6F00576AA4 /* Naloga3 */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 51BAA7901F9F5B6F00576AA4 /* Build configuration list for PBXNativeTarget "Naloga3" */;
@@ -406,6 +522,23 @@
 			name = Predavanje4;
 			productName = Predavanje4;
 			productReference = 51BAA79A1FA1C47F00576AA4 /* Predavanje4 */;
+			productType = "com.apple.product-type.tool";
+		};
+		51C28EBA1FB4467C0094DB37 /* Predavanje6 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 51C28EC11FB4467C0094DB37 /* Build configuration list for PBXNativeTarget "Predavanje6" */;
+			buildPhases = (
+				51C28EB71FB4467C0094DB37 /* Sources */,
+				51C28EB81FB4467C0094DB37 /* Frameworks */,
+				51C28EB91FB4467C0094DB37 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Predavanje6;
+			productName = Predavanje6;
+			productReference = 51C28EBB1FB4467C0094DB37 /* Predavanje6 */;
 			productType = "com.apple.product-type.tool";
 		};
 		51C821151F9621680089BDBE /* Naloga2 */ = {
@@ -470,12 +603,20 @@
 						CreatedOnToolsVersion = 9.1;
 						ProvisioningStyle = Automatic;
 					};
+					51AA86F31FBDD683005FDDB7 = {
+						CreatedOnToolsVersion = 9.1;
+						ProvisioningStyle = Automatic;
+					};
 					51BAA7891F9F5B6F00576AA4 = {
 						CreatedOnToolsVersion = 9.0.1;
 						ProvisioningStyle = Automatic;
 					};
 					51BAA7991FA1C47F00576AA4 = {
 						CreatedOnToolsVersion = 9.0.1;
+						ProvisioningStyle = Automatic;
+					};
+					51C28EBA1FB4467C0094DB37 = {
+						CreatedOnToolsVersion = 9.1;
 						ProvisioningStyle = Automatic;
 					};
 					51C821151F9621680089BDBE = {
@@ -508,6 +649,8 @@
 				51BAA7991FA1C47F00576AA4 /* Predavanje4 */,
 				511D11B71FAB0C98008E9A22 /* Predavanje5 */,
 				51A4F7341FB1DD6B004A1FDD /* Naloga4 */,
+				51C28EBA1FB4467C0094DB37 /* Predavanje6 */,
+				51AA86F31FBDD683005FDDB7 /* Naloga5 */,
 			);
 		};
 /* End PBXProject section */
@@ -526,7 +669,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				517A68321F8FA0FE00A5B6CF /* predavanje_2.c in Sources */,
+				51DC10B91FC45AB2000A919C /* kernel.cl in Sources */,
+				51DC10BA1FC45AB2000A919C /* main.cpp in Sources */,
+				51048E7C1FCD8DF000F5AF2D /* kernel_template.cl in Sources */,
 				51C821201F962E2E0089BDBE /* serverLinux.cpp in Sources */,
+				51048E7D1FCD8DF000F5AF2D /* template.cpp in Sources */,
+				51DC10BB1FC45AB2000A919C /* mandelbrot.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -546,6 +694,14 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		51AA86F01FBDD683005FDDB7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				51AA86F71FBDD683005FDDB7 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		51BAA7861F9F5B6F00576AA4 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -559,6 +715,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				51BAA79D1FA1C47F00576AA4 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		51C28EB71FB4467C0094DB37 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				51C28EBE1FB4467C0094DB37 /* main.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -707,6 +871,7 @@
 				ALWAYS_SEARCH_USER_PATHS = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = MP6X64M7KA;
+				GCC_VERSION = "";
 				"HEADER_SEARCH_PATHS[arch=*]" = /usr/local/include;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				"USER_HEADER_SEARCH_PATHS[arch=*]" = /usr/local/include;
@@ -719,6 +884,7 @@
 				ALWAYS_SEARCH_USER_PATHS = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = MP6X64M7KA;
+				GCC_VERSION = "";
 				"HEADER_SEARCH_PATHS[arch=*]" = /usr/local/include;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				"USER_HEADER_SEARCH_PATHS[arch=*]" = /usr/local/incldue;
@@ -761,6 +927,24 @@
 			};
 			name = Release;
 		};
+		51AA86F81FBDD683005FDDB7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = MP6X64M7KA;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		51AA86F91FBDD683005FDDB7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = MP6X64M7KA;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
 		51BAA78E1F9F5B6F00576AA4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -789,6 +973,24 @@
 			name = Debug;
 		};
 		51BAA7A01FA1C47F00576AA4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = MP6X64M7KA;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		51C28EBF1FB4467C0094DB37 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = MP6X64M7KA;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		51C28EC01FB4467C0094DB37 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -881,6 +1083,15 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
+		51AA86FA1FBDD683005FDDB7 /* Build configuration list for PBXNativeTarget "Naloga5" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				51AA86F81FBDD683005FDDB7 /* Debug */,
+				51AA86F91FBDD683005FDDB7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		51BAA7901F9F5B6F00576AA4 /* Build configuration list for PBXNativeTarget "Naloga3" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -895,6 +1106,15 @@
 			buildConfigurations = (
 				51BAA79F1FA1C47F00576AA4 /* Debug */,
 				51BAA7A01FA1C47F00576AA4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		51C28EC11FB4467C0094DB37 /* Build configuration list for PBXNativeTarget "Predavanje6" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				51C28EBF1FB4467C0094DB37 /* Debug */,
+				51C28EC01FB4467C0094DB37 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
