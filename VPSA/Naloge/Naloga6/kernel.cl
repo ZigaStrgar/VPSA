@@ -7,7 +7,7 @@ __kernel void pixel(
     int color, iter, max_gray = 255;
     
     // namest double loop
-    int i = get_global_id(0) / height,
+    int i = get_global_id(0) / width,
     j = get_global_id(0) % width;
     
     // stevilo iteracij

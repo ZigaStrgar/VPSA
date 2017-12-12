@@ -14,6 +14,7 @@
 		517A683C1F8FC96100A5B6CF /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 517A683B1F8FC96100A5B6CF /* main.c */; };
 		51A4F7381FB1DD6B004A1FDD /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 51A4F7371FB1DD6B004A1FDD /* main.c */; };
 		51AA86F71FBDD683005FDDB7 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 51AA86F61FBDD683005FDDB7 /* main.c */; };
+		51B223231FD6913A0084872F /* sobel.cl in Sources */ = {isa = PBXBuildFile; fileRef = 51B223221FD6913A0084872F /* sobel.cl */; };
 		51BAA78D1F9F5B6F00576AA4 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 51BAA78C1F9F5B6F00576AA4 /* main.c */; };
 		51BAA7951F9F6DA700576AA4 /* pthread_barrier.c in Frameworks */ = {isa = PBXBuildFile; fileRef = 51BAA7941F9F6DA700576AA4 /* pthread_barrier.c */; };
 		51BAA79D1FA1C47F00576AA4 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 51BAA79C1FA1C47F00576AA4 /* main.c */; };
@@ -134,6 +135,8 @@
 		51A4F7371FB1DD6B004A1FDD /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		51AA86F41FBDD683005FDDB7 /* Naloga5 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Naloga5; sourceTree = BUILT_PRODUCTS_DIR; };
 		51AA86F61FBDD683005FDDB7 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		51B223221FD6913A0084872F /* sobel.cl */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.opencl; path = sobel.cl; sourceTree = "<group>"; };
+		51B223241FD6915D0084872F /* sobel.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = sobel.cpp; sourceTree = "<group>"; };
 		51BAA78A1F9F5B6F00576AA4 /* Naloga3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Naloga3; sourceTree = BUILT_PRODUCTS_DIR; };
 		51BAA78C1F9F5B6F00576AA4 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		51BAA7921F9F6C9D00576AA4 /* pthread_barrier.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = pthread_barrier.h; path = ../../../../Desktop/pthread_barrier.h; sourceTree = "<group>"; };
@@ -398,6 +401,8 @@
 				51DC10B71FC45AB2000A919C /* main.cpp */,
 				51DC10B81FC45AB2000A919C /* mandelbrot.cpp */,
 				51DC10B61FC45AB2000A919C /* pgm.h */,
+				51B223221FD6913A0084872F /* sobel.cl */,
+				51B223241FD6915D0084872F /* sobel.cpp */,
 			);
 			path = Naloga6;
 			sourceTree = "<group>";
@@ -670,6 +675,7 @@
 			files = (
 				517A68321F8FA0FE00A5B6CF /* predavanje_2.c in Sources */,
 				51DC10B91FC45AB2000A919C /* kernel.cl in Sources */,
+				51B223231FD6913A0084872F /* sobel.cl in Sources */,
 				51DC10BA1FC45AB2000A919C /* main.cpp in Sources */,
 				51048E7C1FCD8DF000F5AF2D /* kernel_template.cl in Sources */,
 				51C821201F962E2E0089BDBE /* serverLinux.cpp in Sources */,

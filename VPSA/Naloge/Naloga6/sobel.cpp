@@ -8,9 +8,9 @@
 #include "pgm.h"
 #include <OpenCL/OpenCL.h>
 
-#define SIZE            (1024)
 #define WORKGROUP_SIZE    (256)
 #define MAX_SOURCE_SIZE    16384
+#define REPETITIONS 100
 
 void sobelGPU(PGMData *in, PGMData *out)
 {
@@ -35,35 +35,40 @@ void sobelGPU(PGMData *in, PGMData *out)
     fclose(fp);
     
     // Podatki o platformi
-    cl_platform_id    platform_id[10];
+    cl_platform_id    platform_id[1];
     cl_uint            ret_num_platforms;
     char            *buf;
     size_t            buf_len;
-    cl_int ret = clGetPlatformIDs(10, platform_id, &ret_num_platforms);
-    // max. stevilo platform, kazalec na platforme, dejansko stevilo platform
+    cl_int ret = clGetPlatformIDs(1, platform_id, &ret_num_platforms);
+    // max. "stevilo platform, kazalec na platforme, dejansko "stevilo platform
     
     // Podatki o napravi
-    cl_device_id    device_id[10];
+    cl_device_id    device_id[1];
     cl_uint            ret_num_devices;
     // Delali bomo s platform_id[0] na GPU
-    ret = clGetDeviceIDs(platform_id[0], CL_DEVICE_TYPE_GPU, 10, device_id, &ret_num_devices);
+    ret = clGetDeviceIDs(platform_id[0], CL_DEVICE_TYPE_GPU, 1,
+                         device_id, &ret_num_devices);
     // izbrana platforma, tip naprave, koliko naprav nas zanima
-    // kazalec na naprave, dejansko stevilo naprav
+    // kazalec na naprave, dejansko "stevilo naprav
     
     // Kontekst
     cl_context context = clCreateContext(NULL, 1, &device_id[0], NULL, NULL, &ret);
-    // kontekst: vkljucene platforme - NULL je privzeta, stevilo naprav,
+    // kontekst: vklju"cene platforme - NULL je privzeta, "stevilo naprav,
     // kazalci na naprave, kazalec na call-back funkcijo v primeru napake
-    // dodatni parametri funkcije, stevilka napake
+    // dodatni parametri funkcije, "stevilka napake
     
     // Ukazna vrsta
     cl_command_queue command_queue = clCreateCommandQueue(context, device_id[0], 0, &ret);
     // kontekst, naprava, INORDER/OUTOFORDER, napake
     
     // Delitev dela
-    size_t local_item_size = WORKGROUP_SIZE;
+    /*size_t local_item_size = WORKGROUP_SIZE;
     size_t num_groups = ((imageSize - 1) / local_item_size + 1);
-    size_t global_item_size = num_groups*local_item_size;
+    size_t global_item_size = num_groups*local_item_size;*/
+    
+    size_t local_size[] = {16, 16};
+    size_t group_count[] = {(in->width - 1) / 16 + 1, (in->height - 1) / 16 + 1};
+    size_t global_size[] = {group_count[0] * 16, group_count[1] * 16};
     
     // Alokacija pomnilnika na napravi
     cl_mem input_mem_obj = clCreateBuffer(context, CL_MEM_READ_ONLY | CL_MEM_USE_HOST_PTR, imageSize * sizeof(int), in->image, &ret);
@@ -103,7 +108,7 @@ void sobelGPU(PGMData *in, PGMData *out)
     // scepec, stevilka argumenta, velikost podatkov, kazalec na podatke
     
     // scepec: zagon
-    ret = clEnqueueNDRangeKernel(command_queue, kernel, 1, NULL, &global_item_size, &local_item_size, 0, NULL, NULL);
+    ret = clEnqueueNDRangeKernel(command_queue, kernel, 2, NULL, global_size, local_size, 0, NULL, NULL);
     // vrsta, scepec, dimenzionalnost, mora biti NULL,
     // kazalec na stevilo vseh niti, kazalec na lokalno stevilo niti,
     // dogodki, ki se morajo zgoditi pred klicem
@@ -113,7 +118,7 @@ void sobelGPU(PGMData *in, PGMData *out)
     // branje v pomnilnik iz naparave, 0 = offset
     // zadnji trije - dogodki, ki se morajo zgoditi prej
     
-    // clean shit up
+    // clean up
     ret = clFlush(command_queue);
     ret = clFinish(command_queue);
     ret = clReleaseKernel(kernel);
