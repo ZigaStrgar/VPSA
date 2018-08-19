@@ -1,0 +1,500 @@
+Poganjanje z: odstrani 10 šivov na sliki velikosti 1428 × 968
+Time CPU: 0.32531499999822699465
+Poganjanje z: odstrani 50 šivov na sliki velikosti 1428 × 968
+Time CPU: 1.4974640000000363216
+Poganjanje z: odstrani 100 šivov na sliki velikosti 1428 × 968
+Time CPU: 2.941090000000258442
+Poganjanje z: odstrani 200 šivov na sliki velikosti 1428 × 968
+Time CPU: 5.6535900000017136335
+Poganjanje z: odstrani 300 šivov na sliki velikosti 1428 × 968
+Time CPU: 8.2168670000028214417
+Poganjanje z: odstrani 10 šivov na sliki velikosti 3922 × 2616
+Time CPU: 2.2102360000026237685
+Poganjanje z: odstrani 50 šivov na sliki velikosti 3922 × 2616
+Time CPU: 10.72752799999943818
+Poganjanje z: odstrani 100 šivov na sliki velikosti 3922 × 2616
+Time CPU: 21.224322999998548767
+Poganjanje z: odstrani 200 šivov na sliki velikosti 3922 × 2616
+Time CPU: 42.286236000003555091
+Poganjanje z: odstrani 300 šivov na sliki velikosti 3922 × 2616
+Time CPU: 62.126800999998522457
+Poganjanje z: odstrani 10 šivov na sliki velikosti 1920 × 1080
+Time CPU: 0.45671800000127404928
+Poganjanje z: odstrani 50 šivov na sliki velikosti 1920 × 1080
+Time CPU: 2.2582899999979417771
+Poganjanje z: odstrani 100 šivov na sliki velikosti 1920 × 1080
+Time CPU: 4.4755089999998745043
+Poganjanje z: odstrani 200 šivov na sliki velikosti 1920 × 1080
+Time CPU: 8.5287970000026689377
+Poganjanje z: odstrani 300 šivov na sliki velikosti 1920 × 1080
+Time CPU: 12.429986999999528052
+Poganjanje z: odstrani 10 šivov na sliki velikosti 5177 × 3456
+Time CPU: 3.9561590000012074597
+Poganjanje z: odstrani 50 šivov na sliki velikosti 5177 × 3456
+Time CPU: 19.317200000001321314
+Poganjanje z: odstrani 100 šivov na sliki velikosti 5177 × 3456
+Time CPU: 38.110726000002614455
+Poganjanje z: odstrani 200 šivov na sliki velikosti 5177 × 3456
+Time CPU: 75.58384700000169687
+Poganjanje z: odstrani 300 šivov na sliki velikosti 5177 × 3456
+Time CPU: 112.15015099999800441
+Poganjanje z: odstrani 10 šivov na sliki velikosti 3276 × 4096
+Time CPU: 2.982500000001891749
+Poganjanje z: odstrani 50 šivov na sliki velikosti 3276 × 4096
+Time CPU: 14.648638999999093357
+Poganjanje z: odstrani 100 šivov na sliki velikosti 3276 × 4096
+Time CPU: 28.844737999999779277
+Poganjanje z: odstrani 200 šivov na sliki velikosti 3276 × 4096
+Time CPU: 65.166245000000344589
+Poganjanje z: odstrani 300 šivov na sliki velikosti 3276 × 4096
+Time CPU: 95.804858999999851221
+Poganjanje z: odstrani 10 šivov na sliki velikosti 1428 × 968
+Time CPU: 0.30918500000188942067
+Poganjanje z: odstrani 50 šivov na sliki velikosti 1428 × 968
+Time CPU: 1.5153570000002218876
+Poganjanje z: odstrani 100 šivov na sliki velikosti 1428 × 968
+Time CPU: 3.093882999997731531
+Poganjanje z: odstrani 200 šivov na sliki velikosti 1428 × 968
+Time CPU: 5.6645860000026004855
+Poganjanje z: odstrani 300 šivov na sliki velikosti 1428 × 968
+Time CPU: 8.1844210000017483253
+Poganjanje z: odstrani 10 šivov na sliki velikosti 3922 × 2616
+Time CPU: 2.1963890000006358605
+Poganjanje z: odstrani 50 šivov na sliki velikosti 3922 × 2616
+Time CPU: 10.691125999997893814
+Poganjanje z: odstrani 100 šivov na sliki velikosti 3922 × 2616
+Time CPU: 21.378969000001234235
+Poganjanje z: odstrani 200 šivov na sliki velikosti 3922 × 2616
+Time CPU: 42.042392999999719905
+Poganjanje z: odstrani 300 šivov na sliki velikosti 3922 × 2616
+Time CPU: 61.955219999999826541
+Poganjanje z: odstrani 10 šivov na sliki velikosti 1920 × 1080
+Time CPU: 0.44990699999834760092
+Poganjanje z: odstrani 50 šivov na sliki velikosti 1920 × 1080
+Time CPU: 2.235776999998051906
+Poganjanje z: odstrani 100 šivov na sliki velikosti 1920 × 1080
+Time CPU: 4.4104289999995671678
+Poganjanje z: odstrani 200 šivov na sliki velikosti 1920 × 1080
+Time CPU: 8.9451069999995524995
+Poganjanje z: odstrani 300 šivov na sliki velikosti 1920 × 1080
+Time CPU: 12.463890999999421183
+Poganjanje z: odstrani 10 šivov na sliki velikosti 5177 × 3456
+Time CPU: 3.9084309999998367857
+Poganjanje z: odstrani 50 šivov na sliki velikosti 5177 × 3456
+Time CPU: 19.863939000002574176
+Poganjanje z: odstrani 100 šivov na sliki velikosti 5177 × 3456
+Time CPU: 38.252558000000135507
+Poganjanje z: odstrani 200 šivov na sliki velikosti 5177 × 3456
+Time CPU: 96.375482999999803724
+Poganjanje z: odstrani 300 šivov na sliki velikosti 5177 × 3456
+Time CPU: 118.66731199999776436
+Poganjanje z: odstrani 10 šivov na sliki velikosti 3276 × 4096
+Time CPU: 3.090314999997644918
+Poganjanje z: odstrani 50 šivov na sliki velikosti 3276 × 4096
+Time CPU: 14.873607000001356937
+Poganjanje z: odstrani 100 šivov na sliki velikosti 3276 × 4096
+Time CPU: 29.455681000003096415
+Poganjanje z: odstrani 200 šivov na sliki velikosti 3276 × 4096
+Time CPU: 68.744349000000511296
+Poganjanje z: odstrani 300 šivov na sliki velikosti 3276 × 4096
+Time CPU: 99.608193000000028405
+Poganjanje z: odstrani 10 šivov na sliki velikosti 1428 × 968
+Time CPU: 0.37808199999926728196
+Poganjanje z: odstrani 50 šivov na sliki velikosti 1428 × 968
+Time CPU: 1.8791969999983848538
+Poganjanje z: odstrani 100 šivov na sliki velikosti 1428 × 968
+Time CPU: 3.1305709999978716951
+Poganjanje z: odstrani 200 šivov na sliki velikosti 1428 × 968
+Time CPU: 5.8067929999997431878
+Poganjanje z: odstrani 300 šivov na sliki velikosti 1428 × 968
+Time CPU: 8.3446000000003550667
+Poganjanje z: odstrani 10 šivov na sliki velikosti 3922 × 2616
+Time CPU: 2.2259939999967173208
+Poganjanje z: odstrani 50 šivov na sliki velikosti 3922 × 2616
+Time CPU: 10.899162000001524575
+Poganjanje z: odstrani 100 šivov na sliki velikosti 3922 × 2616
+Time CPU: 24.82785899999726098
+Poganjanje z: odstrani 200 šivov na sliki velikosti 3922 × 2616
+Time CPU: 42.471567000000504777
+Poganjanje z: odstrani 300 šivov na sliki velikosti 3922 × 2616
+Time CPU: 62.532663000001775799
+Poganjanje z: odstrani 10 šivov na sliki velikosti 1920 × 1080
+Time CPU: 0.47130399999878136441
+Poganjanje z: odstrani 50 šivov na sliki velikosti 1920 × 1080
+Time CPU: 2.2461189999994530808
+Poganjanje z: odstrani 100 šivov na sliki velikosti 1920 × 1080
+Time CPU: 4.4438210000007529743
+Poganjanje z: odstrani 200 šivov na sliki velikosti 1920 × 1080
+Time CPU: 8.6110840000001189765
+Poganjanje z: odstrani 300 šivov na sliki velikosti 1920 × 1080
+Time CPU: 14.125709999996615807
+Poganjanje z: odstrani 10 šivov na sliki velikosti 5177 × 3456
+Time CPU: 4.6188360000014654361
+Poganjanje z: odstrani 50 šivov na sliki velikosti 5177 × 3456
+Time CPU: 20.425019000002066605
+Poganjanje z: odstrani 100 šivov na sliki velikosti 5177 × 3456
+Time CPU: 39.256439999997382984
+Poganjanje z: odstrani 200 šivov na sliki velikosti 5177 × 3456
+Time CPU: 84.581682000000000698
+Poganjanje z: odstrani 300 šivov na sliki velikosti 5177 × 3456
+Time CPU: 118.0923369999982242
+Poganjanje z: odstrani 10 šivov na sliki velikosti 3276 × 4096
+Time CPU: 3.0019910000009986106
+Poganjanje z: odstrani 50 šivov na sliki velikosti 3276 × 4096
+Time CPU: 14.948129999997036066
+Poganjanje z: odstrani 100 šivov na sliki velikosti 3276 × 4096
+Time CPU: 31.775594999999157153
+Poganjanje z: odstrani 200 šivov na sliki velikosti 3276 × 4096
+Time CPU: 57.910939000001235399
+Poganjanje z: odstrani 300 šivov na sliki velikosti 3276 × 4096
+Time CPU: 85.469153000001824694
+Poganjanje z: odstrani 10 šivov na sliki velikosti 1428 × 968
+Time CPU: 0.30190399999992223457
+Poganjanje z: odstrani 50 šivov na sliki velikosti 1428 × 968
+Time CPU: 1.5137890000005427282
+Poganjanje z: odstrani 100 šivov na sliki velikosti 1428 × 968
+Time CPU: 2.973255999997491017
+Poganjanje z: odstrani 200 šivov na sliki velikosti 1428 × 968
+Time CPU: 5.6982900000002700835
+Poganjanje z: odstrani 300 šivov na sliki velikosti 1428 × 968
+Time CPU: 8.2298669999981939327
+Poganjanje z: odstrani 10 šivov na sliki velikosti 3922 × 2616
+Time CPU: 2.1775390000002516899
+Poganjanje z: odstrani 50 šivov na sliki velikosti 3922 × 2616
+Time CPU: 10.713823000001866603
+Poganjanje z: odstrani 100 šivov na sliki velikosti 3922 × 2616
+Time CPU: 22.306606999998621177
+Poganjanje z: odstrani 200 šivov na sliki velikosti 3922 × 2616
+Time CPU: 44.390273000000888715
+Poganjanje z: odstrani 300 šivov na sliki velikosti 3922 × 2616
+Time CPU: 64.93276999999943655
+Poganjanje z: odstrani 10 šivov na sliki velikosti 1920 × 1080
+Time CPU: 0.4760979999991832301
+Poganjanje z: odstrani 50 šivov na sliki velikosti 1920 × 1080
+Time CPU: 2.25632699999914621
+Poganjanje z: odstrani 100 šivov na sliki velikosti 1920 × 1080
+Time CPU: 4.4541800000006332994
+Poganjanje z: odstrani 200 šivov na sliki velikosti 1920 × 1080
+Time CPU: 8.7224610000012035016
+Poganjanje z: odstrani 300 šivov na sliki velikosti 1920 × 1080
+Time CPU: 12.631483000001026085
+Poganjanje z: odstrani 10 šivov na sliki velikosti 5177 × 3456
+Time CPU: 3.9546159999990777578
+Poganjanje z: odstrani 50 šivov na sliki velikosti 5177 × 3456
+Time CPU: 19.512340000001131557
+Poganjanje z: odstrani 100 šivov na sliki velikosti 5177 × 3456
+Time CPU: 40.764997999998740852
+Poganjanje z: odstrani 200 šivov na sliki velikosti 5177 × 3456
+Time CPU: 77.902505000001838198
+Poganjanje z: odstrani 300 šivov na sliki velikosti 5177 × 3456
+Time CPU: 119.10031499999968219
+Poganjanje z: odstrani 10 šivov na sliki velikosti 3276 × 4096
+Time CPU: 3.0387770000015734695
+Poganjanje z: odstrani 50 šivov na sliki velikosti 3276 × 4096
+Time CPU: 14.794089000002713874
+Poganjanje z: odstrani 100 šivov na sliki velikosti 3276 × 4096
+Time CPU: 29.207526999998663086
+Poganjanje z: odstrani 200 šivov na sliki velikosti 3276 × 4096
+Time CPU: 57.353938999996898929
+Poganjanje z: odstrani 300 šivov na sliki velikosti 3276 × 4096
+Time CPU: 94.905894999999873107
+Poganjanje z: odstrani 10 šivov na sliki velikosti 1428 × 968
+Time CPU: 0.31258800000068731606
+Poganjanje z: odstrani 50 šivov na sliki velikosti 1428 × 968
+Time CPU: 1.5174169999991136137
+Poganjanje z: odstrani 100 šivov na sliki velikosti 1428 × 968
+Time CPU: 2.9666980000001785811
+Poganjanje z: odstrani 200 šivov na sliki velikosti 1428 × 968
+Time CPU: 5.6902870000012626406
+Poganjanje z: odstrani 300 šivov na sliki velikosti 1428 × 968
+Time CPU: 8.2749500000027182978
+Poganjanje z: odstrani 10 šivov na sliki velikosti 3922 × 2616
+Time CPU: 2.1922029999986989424
+Poganjanje z: odstrani 50 šivov na sliki velikosti 3922 × 2616
+Time CPU: 10.8797420000009879
+Poganjanje z: odstrani 100 šivov na sliki velikosti 3922 × 2616
+Time CPU: 23.010550999999395572
+Poganjanje z: odstrani 200 šivov na sliki velikosti 3922 × 2616
+Time CPU: 43.673890999998548068
+Poganjanje z: odstrani 300 šivov na sliki velikosti 3922 × 2616
+Time CPU: 62.469102000002749264
+Poganjanje z: odstrani 10 šivov na sliki velikosti 1920 × 1080
+Time CPU: 0.45947599999999511056
+Poganjanje z: odstrani 50 šivov na sliki velikosti 1920 × 1080
+Time CPU: 2.2497829999992973171
+Poganjanje z: odstrani 100 šivov na sliki velikosti 1920 × 1080
+Time CPU: 4.45000399999844376
+Poganjanje z: odstrani 200 šivov na sliki velikosti 1920 × 1080
+Time CPU: 8.645660999998654006
+Poganjanje z: odstrani 300 šivov na sliki velikosti 1920 × 1080
+Time CPU: 12.641019000002415851
+Poganjanje z: odstrani 10 šivov na sliki velikosti 5177 × 3456
+Time CPU: 4.0265370000015536789
+Poganjanje z: odstrani 50 šivov na sliki velikosti 5177 × 3456
+Time CPU: 22.549463999999716179
+Poganjanje z: odstrani 100 šivov na sliki velikosti 5177 × 3456
+Time CPU: 38.64296200000171666
+Poganjanje z: odstrani 200 šivov na sliki velikosti 5177 × 3456
+Time CPU: 78.427783999999519438
+Poganjanje z: odstrani 300 šivov na sliki velikosti 5177 × 3456
+Time CPU: 115.07980099999986123
+Poganjanje z: odstrani 10 šivov na sliki velikosti 3276 × 4096
+Time CPU: 3.7983469999999215361
+Poganjanje z: odstrani 50 šivov na sliki velikosti 3276 × 4096
+Time CPU: 16.275431999998545507
+Poganjanje z: odstrani 100 šivov na sliki velikosti 3276 × 4096
+Time CPU: 29.558761999996931991
+Poganjanje z: odstrani 200 šivov na sliki velikosti 3276 × 4096
+Time CPU: 57.2183870000008028
+Poganjanje z: odstrani 300 šivov na sliki velikosti 3276 × 4096
+Time CPU: 84.108022000000346452
+Poganjanje z: odstrani 10 šivov na sliki velikosti 1428 × 968
+Time CPU: 0.30356000000028871
+Poganjanje z: odstrani 50 šivov na sliki velikosti 1428 × 968
+Time CPU: 1.4755310000000463333
+Poganjanje z: odstrani 100 šivov na sliki velikosti 1428 × 968
+Time CPU: 2.9089449999992211815
+Poganjanje z: odstrani 200 šivov na sliki velikosti 1428 × 968
+Time CPU: 5.6095429999986663461
+Poganjanje z: odstrani 300 šivov na sliki velikosti 1428 × 968
+Time CPU: 8.1181289999985892791
+Poganjanje z: odstrani 10 šivov na sliki velikosti 3922 × 2616
+Time CPU: 2.2158019999988027848
+Poganjanje z: odstrani 50 šivov na sliki velikosti 3922 × 2616
+Time CPU: 12.304007999999157619
+Poganjanje z: odstrani 100 šivov na sliki velikosti 3922 × 2616
+Time CPU: 23.366058999999950174
+Poganjanje z: odstrani 200 šivov na sliki velikosti 3922 × 2616
+Time CPU: 45.730918999997811625
+Poganjanje z: odstrani 300 šivov na sliki velikosti 3922 × 2616
+Time CPU: 63.304792000002635177
+Poganjanje z: odstrani 10 šivov na sliki velikosti 1920 × 1080
+Time CPU: 0.47503900000083376653
+Poganjanje z: odstrani 50 šivov na sliki velikosti 1920 × 1080
+Time CPU: 2.2962310000002617016
+Poganjanje z: odstrani 100 šivov na sliki velikosti 1920 × 1080
+Time CPU: 5.4507029999986116309
+Poganjanje z: odstrani 200 šivov na sliki velikosti 1920 × 1080
+Time CPU: 9.4056100000016158447
+Poganjanje z: odstrani 300 šivov na sliki velikosti 1920 × 1080
+Time CPU: 12.756095000000641448
+Poganjanje z: odstrani 10 šivov na sliki velikosti 5177 × 3456
+Time CPU: 3.9479489999976067338
+Poganjanje z: odstrani 50 šivov na sliki velikosti 5177 × 3456
+Time CPU: 22.557553999999072403
+Poganjanje z: odstrani 100 šivov na sliki velikosti 5177 × 3456
+Time CPU: 38.808806000000913627
+Poganjanje z: odstrani 200 šivov na sliki velikosti 5177 × 3456
+Time CPU: 79.569597000001522247
+Poganjanje z: odstrani 300 šivov na sliki velikosti 5177 × 3456
+Time CPU: 120.31636000000071363
+Poganjanje z: odstrani 10 šivov na sliki velikosti 3276 × 4096
+Time CPU: 2.9763070000008156057
+Poganjanje z: odstrani 50 šivov na sliki velikosti 3276 × 4096
+Time CPU: 14.596768999999767402
+Poganjanje z: odstrani 100 šivov na sliki velikosti 3276 × 4096
+Time CPU: 28.922190000001137378
+Poganjanje z: odstrani 200 šivov na sliki velikosti 3276 × 4096
+Time CPU: 57.8052609999976994
+Poganjanje z: odstrani 300 šivov na sliki velikosti 3276 × 4096
+Time CPU: 86.969343000000662869
+Poganjanje z: odstrani 10 šivov na sliki velikosti 1428 × 968
+Time CPU: 0.30578500000046915375
+Poganjanje z: odstrani 50 šivov na sliki velikosti 1428 × 968
+Time CPU: 1.4897310000014840625
+Poganjanje z: odstrani 100 šivov na sliki velikosti 1428 × 968
+Time CPU: 2.9613170000011450611
+Poganjanje z: odstrani 200 šivov na sliki velikosti 1428 × 968
+Time CPU: 5.6760850000027858187
+Poganjanje z: odstrani 300 šivov na sliki velikosti 1428 × 968
+Time CPU: 8.2516790000008768402
+Poganjanje z: odstrani 10 šivov na sliki velikosti 3922 × 2616
+Time CPU: 2.5521489999991899822
+Poganjanje z: odstrani 50 šivov na sliki velikosti 3922 × 2616
+Time CPU: 10.829134999999951106
+Poganjanje z: odstrani 100 šivov na sliki velikosti 3922 × 2616
+Time CPU: 22.76473700000133249
+Poganjanje z: odstrani 200 šivov na sliki velikosti 3922 × 2616
+Time CPU: 44.487580000000889413
+Poganjanje z: odstrani 300 šivov na sliki velikosti 3922 × 2616
+Time CPU: 63.172102000000450062
+Poganjanje z: odstrani 10 šivov na sliki velikosti 1920 × 1080
+Time CPU: 0.47740499999781604856
+Poganjanje z: odstrani 50 šivov na sliki velikosti 1920 × 1080
+Time CPU: 2.2631570000012288801
+Poganjanje z: odstrani 100 šivov na sliki velikosti 1920 × 1080
+Time CPU: 4.426300999999511987
+Poganjanje z: odstrani 200 šivov na sliki velikosti 1920 × 1080
+Time CPU: 8.6824339999984658789
+Poganjanje z: odstrani 300 šivov na sliki velikosti 1920 × 1080
+Time CPU: 12.618472999998630257
+Poganjanje z: odstrani 10 šivov na sliki velikosti 5177 × 3456
+Time CPU: 4.0225620000019262079
+Poganjanje z: odstrani 50 šivov na sliki velikosti 5177 × 3456
+Time CPU: 19.383678999998664949
+Poganjanje z: odstrani 100 šivov na sliki velikosti 5177 × 3456
+Time CPU: 38.685415000003558816
+Poganjanje z: odstrani 200 šivov na sliki velikosti 5177 × 3456
+Time CPU: 79.320955000002868474
+Poganjanje z: odstrani 300 šivov na sliki velikosti 5177 × 3456
+Time CPU: 114.5448419999993348
+Poganjanje z: odstrani 10 šivov na sliki velikosti 3276 × 4096
+Time CPU: 2.9778939999996509869
+Poganjanje z: odstrani 50 šivov na sliki velikosti 3276 × 4096
+Time CPU: 14.535345000000233995
+Poganjanje z: odstrani 100 šivov na sliki velikosti 3276 × 4096
+Time CPU: 29.304680999997799518
+Poganjanje z: odstrani 200 šivov na sliki velikosti 3276 × 4096
+Time CPU: 56.882649999999557622
+Poganjanje z: odstrani 300 šivov na sliki velikosti 3276 × 4096
+Time CPU: 84.387040000001434237
+Poganjanje z: odstrani 10 šivov na sliki velikosti 1428 × 968
+Time CPU: 0.30608199999915086664
+Poganjanje z: odstrani 50 šivov na sliki velikosti 1428 × 968
+Time CPU: 1.4858069999972940423
+Poganjanje z: odstrani 100 šivov na sliki velikosti 1428 × 968
+Time CPU: 3.1217370000013033859
+Poganjanje z: odstrani 200 šivov na sliki velikosti 1428 × 968
+Time CPU: 5.7997119999999995343
+Poganjanje z: odstrani 300 šivov na sliki velikosti 1428 × 968
+Time CPU: 8.0453979999983857851
+Poganjanje z: odstrani 10 šivov na sliki velikosti 3922 × 2616
+Time CPU: 2.2415479999981471337
+Poganjanje z: odstrani 50 šivov na sliki velikosti 3922 × 2616
+Time CPU: 476.0446830000000773
+Poganjanje z: odstrani 100 šivov na sliki velikosti 3922 × 2616
+Time CPU: 31.21068100000047707
+Poganjanje z: odstrani 200 šivov na sliki velikosti 3922 × 2616
+Time CPU: 45.074530999998387415
+Poganjanje z: odstrani 300 šivov na sliki velikosti 3922 × 2616
+Time CPU: 64.511309999998047715
+Poganjanje z: odstrani 10 šivov na sliki velikosti 1920 × 1080
+Time CPU: 0.47749499999918043613
+Poganjanje z: odstrani 50 šivov na sliki velikosti 1920 × 1080
+Time CPU: 2.2875510000012582168
+Poganjanje z: odstrani 100 šivov na sliki velikosti 1920 × 1080
+Time CPU: 4.5529579999965790194
+Poganjanje z: odstrani 200 šivov na sliki velikosti 1920 × 1080
+Time CPU: 8.7980519999982789159
+Poganjanje z: odstrani 300 šivov na sliki velikosti 1920 × 1080
+Time CPU: 12.814866000000620261
+Poganjanje z: odstrani 10 šivov na sliki velikosti 5177 × 3456
+Time CPU: 4.0992310000001452863
+Poganjanje z: odstrani 50 šivov na sliki velikosti 5177 × 3456
+Time CPU: 19.794706000000587665
+Poganjanje z: odstrani 100 šivov na sliki velikosti 5177 × 3456
+Time CPU: 39.437485999998898478
+Poganjanje z: odstrani 200 šivov na sliki velikosti 5177 × 3456
+Time CPU: 77.920054000001982786
+Poganjanje z: odstrani 300 šivov na sliki velikosti 5177 × 3456
+Time CPU: 122.51629400000092573
+Poganjanje z: odstrani 10 šivov na sliki velikosti 3276 × 4096
+Time CPU: 3.0128890000014507677
+Poganjanje z: odstrani 50 šivov na sliki velikosti 3276 × 4096
+Time CPU: 14.774261999998998363
+Poganjanje z: odstrani 100 šivov na sliki velikosti 3276 × 4096
+Time CPU: 30.366086999998515239
+Poganjanje z: odstrani 200 šivov na sliki velikosti 3276 × 4096
+Time CPU: 60.250478999998449581
+Poganjanje z: odstrani 300 šivov na sliki velikosti 3276 × 4096
+Time CPU: 88.321827000003395369
+Poganjanje z: odstrani 10 šivov na sliki velikosti 1428 × 968
+Time CPU: 0.30577799999809940346
+Poganjanje z: odstrani 50 šivov na sliki velikosti 1428 × 968
+Time CPU: 1.505800000002636807
+Poganjanje z: odstrani 100 šivov na sliki velikosti 1428 × 968
+Time CPU: 2.9403969999984838068
+Poganjanje z: odstrani 200 šivov na sliki velikosti 1428 × 968
+Time CPU: 5.7157389999993029051
+Poganjanje z: odstrani 300 šivov na sliki velikosti 1428 × 968
+Time CPU: 8.3282409999992523808
+Poganjanje z: odstrani 10 šivov na sliki velikosti 3922 × 2616
+Time CPU: 2.3244080000004032627
+Poganjanje z: odstrani 50 šivov na sliki velikosti 3922 × 2616
+Time CPU: 10.777999999998428393
+Poganjanje z: odstrani 100 šivov na sliki velikosti 3922 × 2616
+Time CPU: 21.321684999998979038
+Poganjanje z: odstrani 200 šivov na sliki velikosti 3922 × 2616
+Time CPU: 42.674193000002560439
+Poganjanje z: odstrani 300 šivov na sliki velikosti 3922 × 2616
+Time CPU: 62.47755699999834178
+Poganjanje z: odstrani 10 šivov na sliki velikosti 1920 × 1080
+Time CPU: 0.47301800000059301965
+Poganjanje z: odstrani 50 šivov na sliki velikosti 1920 × 1080
+Time CPU: 2.2247040000002016313
+Poganjanje z: odstrani 100 šivov na sliki velikosti 1920 × 1080
+Time CPU: 4.4264000000002852175
+Poganjanje z: odstrani 200 šivov na sliki velikosti 1920 × 1080
+Time CPU: 8.6378389999990758952
+Poganjanje z: odstrani 300 šivov na sliki velikosti 1920 × 1080
+Time CPU: 12.5617500000007567
+Poganjanje z: odstrani 10 šivov na sliki velikosti 5177 × 3456
+Time CPU: 4.0891749999973399099
+Poganjanje z: odstrani 50 šivov na sliki velikosti 5177 × 3456
+Time CPU: 19.430322999996860744
+Poganjanje z: odstrani 100 šivov na sliki velikosti 5177 × 3456
+Time CPU: 38.668944000000919914
+Poganjanje z: odstrani 200 šivov na sliki velikosti 5177 × 3456
+Time CPU: 76.759166999996523373
+Poganjanje z: odstrani 300 šivov na sliki velikosti 5177 × 3456
+Time CPU: 121.77496699999755947
+Poganjanje z: odstrani 10 šivov na sliki velikosti 3276 × 4096
+Time CPU: 3.1080729999994218815
+Poganjanje z: odstrani 50 šivov na sliki velikosti 3276 × 4096
+Time CPU: 17.738227999998343876
+Poganjanje z: odstrani 100 šivov na sliki velikosti 3276 × 4096
+Time CPU: 31.333255000001372537
+Poganjanje z: odstrani 200 šivov na sliki velikosti 3276 × 4096
+Time CPU: 57.261769999997341074
+Poganjanje z: odstrani 300 šivov na sliki velikosti 3276 × 4096
+Time CPU: 87.091201999999611871
+Poganjanje z: odstrani 10 šivov na sliki velikosti 1428 × 968
+Time CPU: 0.31570600000122794881
+Poganjanje z: odstrani 50 šivov na sliki velikosti 1428 × 968
+Time CPU: 1.4872399999985645991
+Poganjanje z: odstrani 100 šivov na sliki velikosti 1428 × 968
+Time CPU: 2.9179739999999583233
+Poganjanje z: odstrani 200 šivov na sliki velikosti 1428 × 968
+Time CPU: 5.6489430000001448207
+Poganjanje z: odstrani 300 šivov na sliki velikosti 1428 × 968
+Time CPU: 8.239357999998901505
+Poganjanje z: odstrani 10 šivov na sliki velikosti 3922 × 2616
+Time CPU: 2.1951899999985471368
+Poganjanje z: odstrani 50 šivov na sliki velikosti 3922 × 2616
+Time CPU: 10.758674000000610249
+Poganjanje z: odstrani 100 šivov na sliki velikosti 3922 × 2616
+Time CPU: 21.324384999999892898
+Poganjanje z: odstrani 200 šivov na sliki velikosti 3922 × 2616
+Time CPU: 42.011312999999063322
+Poganjanje z: odstrani 300 šivov na sliki velikosti 3922 × 2616
+Time CPU: 62.360799000001861714
+Poganjanje z: odstrani 10 šivov na sliki velikosti 1920 × 1080
+Time CPU: 0.46001899999828310683
+Poganjanje z: odstrani 50 šivov na sliki velikosti 1920 × 1080
+Time CPU: 2.2471910000022035092
+Poganjanje z: odstrani 100 šivov na sliki velikosti 1920 × 1080
+Time CPU: 4.4599869999983638991
+Poganjanje z: odstrani 200 šivov na sliki velikosti 1920 × 1080
+Time CPU: 8.6805810000005294569
+Poganjanje z: odstrani 300 šivov na sliki velikosti 1920 × 1080
+Time CPU: 12.683096000000659842
+Poganjanje z: odstrani 10 šivov na sliki velikosti 5177 × 3456
+Time CPU: 4.0337950000030105002
+Poganjanje z: odstrani 50 šivov na sliki velikosti 5177 × 3456
+Time CPU: 19.501236000000062631
+Poganjanje z: odstrani 100 šivov na sliki velikosti 5177 × 3456
+Time CPU: 38.805596000001969514
+Poganjanje z: odstrani 200 šivov na sliki velikosti 5177 × 3456
+Time CPU: 79.364592999998421874
+Poganjanje z: odstrani 300 šivov na sliki velikosti 5177 × 3456
+Time CPU: 115.61418699999921955
+Poganjanje z: odstrani 10 šivov na sliki velikosti 3276 × 4096
+Time CPU: 3.0925669999996898696
+Poganjanje z: odstrani 50 šivov na sliki velikosti 3276 × 4096
+Time CPU: 15.046714000000065425
+Poganjanje z: odstrani 100 šivov na sliki velikosti 3276 × 4096
+Time CPU: 29.759052999997948064
+Poganjanje z: odstrani 200 šivov na sliki velikosti 3276 × 4096
+Time CPU: 58.674847000002046116
+Poganjanje z: odstrani 300 šivov na sliki velikosti 3276 × 4096
+Time CPU: 86.881248000001505716

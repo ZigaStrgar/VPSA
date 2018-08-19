@@ -1,0 +1,750 @@
+Poganjanje z: odstrani 10 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 0.12618699999998739258
+Poganjanje z: odstrani 50 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 0.57443499999999403371
+Poganjanje z: odstrani 100 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 1.1156330000000025393
+Poganjanje z: odstrani 200 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 2.1207580000000234577
+Poganjanje z: odstrani 300 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 3.0638639999999952579
+Poganjanje z: odstrani 10 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 0.80473499999999376087
+Poganjanje z: odstrani 50 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 3.8516600000000096315
+Poganjanje z: odstrani 100 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 7.5778170000000102391
+Poganjanje z: odstrani 200 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 14.877835000000004584
+Poganjanje z: odstrani 300 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 22.44401799999997138
+Poganjanje z: odstrani 10 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 0.19539200000002665547
+Poganjanje z: odstrani 50 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 0.87025399999998853673
+Poganjanje z: odstrani 100 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 1.7386569999999892389
+Poganjanje z: odstrani 200 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 3.1187820000000101572
+Poganjanje z: odstrani 300 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 4.6496319999999968786
+Poganjanje z: odstrani 10 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 1.4200649999999654938
+Poganjanje z: odstrani 50 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 6.8674469999999701031
+Poganjanje z: odstrani 100 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 13.282285999999999149
+Poganjanje z: odstrani 200 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 26.366573000000016691
+Poganjanje z: odstrani 300 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 38.498413999999968382
+Poganjanje z: odstrani 10 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 1.0549399999999877764
+Poganjanje z: odstrani 50 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 5.1383379999999760912
+Poganjanje z: odstrani 100 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 10.068831999999986238
+Poganjanje z: odstrani 200 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 19.491759999999999309
+Poganjanje z: odstrani 300 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 29.273686999999995351
+Poganjanje z: odstrani 10 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 0.12762999999995372491
+Poganjanje z: odstrani 50 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 0.58375300000000152068
+Poganjanje z: odstrani 100 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 1.1345190000000116015
+Poganjanje z: odstrani 200 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 2.1924109999999927823
+Poganjanje z: odstrani 300 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 3.1491829999999936263
+Poganjanje z: odstrani 10 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 0.81068600000003243622
+Poganjanje z: odstrani 50 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 3.9363319999999930587
+Poganjanje z: odstrani 100 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 7.6068399999999769534
+Poganjanje z: odstrani 200 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 14.921007999999972071
+Poganjanje z: odstrani 300 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 22.156721999999945183
+Poganjanje z: odstrani 10 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 0.1820599999999785723
+Poganjanje z: odstrani 50 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 0.8350189999999884094
+Poganjanje z: odstrani 100 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 1.6489300000000639557
+Poganjanje z: odstrani 200 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 3.1382719999999153515
+Poganjanje z: odstrani 300 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 4.57241199999998571
+Poganjanje z: odstrani 10 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 1.3798870000000533764
+Poganjanje z: odstrani 50 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 6.8503830000000789369
+Poganjanje z: odstrani 100 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 12.937521999999944455
+Poganjanje z: odstrani 200 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 25.723021000000017011
+Poganjanje z: odstrani 300 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 38.252528999999981352
+Poganjanje z: odstrani 10 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 1.0669349999999440115
+Poganjanje z: odstrani 50 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 4.978297999999995227
+Poganjanje z: odstrani 100 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 10.115699999999947067
+Poganjanje z: odstrani 200 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 19.901700000000005275
+Poganjanje z: odstrani 300 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 28.78719300000000203
+Poganjanje z: odstrani 10 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 0.12604700000008506322
+Poganjanje z: odstrani 50 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 0.57708600000000842556
+Poganjanje z: odstrani 100 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 1.1757300000000441287
+Poganjanje z: odstrani 200 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 2.2160830000000260043
+Poganjanje z: odstrani 300 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 3.134264000000030137
+Poganjanje z: odstrani 10 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 0.81059399999992365338
+Poganjanje z: odstrani 50 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 3.9241530000000466316
+Poganjanje z: odstrani 100 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 7.6790459999999711727
+Poganjanje z: odstrani 200 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 15.277535000000057153
+Poganjanje z: odstrani 300 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 22.245473000000060892
+Poganjanje z: odstrani 10 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 0.18433800000002520392
+Poganjanje z: odstrani 50 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 0.83952099999999063584
+Poganjanje z: odstrani 100 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 1.6572439999999915017
+Poganjanje z: odstrani 200 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 3.1444679999999607389
+Poganjanje z: odstrani 300 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 4.6112379999999575375
+Poganjanje z: odstrani 10 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 1.4293249999999488864
+Poganjanje z: odstrani 50 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 6.7587720000000217624
+Poganjanje z: odstrani 100 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 13.050882999999998901
+Poganjanje z: odstrani 200 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 25.760893000000010034
+Poganjanje z: odstrani 300 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 38.396658000000002176
+Poganjanje z: odstrani 10 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 1.0277290000000220971
+Poganjanje z: odstrani 50 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 4.9574689999999463907
+Poganjanje z: odstrani 100 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 9.920552999999927124
+Poganjanje z: odstrani 200 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 19.534482000000025437
+Poganjanje z: odstrani 300 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 28.669402999999988424
+Poganjanje z: odstrani 10 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 0.12902400000007219205
+Poganjanje z: odstrani 50 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 0.58103699999992386438
+Poganjanje z: odstrani 100 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 1.1169280000000298969
+Poganjanje z: odstrani 200 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 2.1512850000000298678
+Poganjanje z: odstrani 300 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 3.0764969999999038919
+Poganjanje z: odstrani 10 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 0.80186199999991458753
+Poganjanje z: odstrani 50 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 3.8722209999999677166
+Poganjanje z: odstrani 100 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 7.629496000000017375
+Poganjanje z: odstrani 200 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 14.900965000000041982
+Poganjanje z: odstrani 300 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 22.08129600000006576
+Poganjanje z: odstrani 10 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 0.18163900000001831359
+Poganjanje z: odstrani 50 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 0.83693800000003193418
+Poganjanje z: odstrani 100 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 1.6400370000000066284
+Poganjanje z: odstrani 200 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 3.2016009999999823776
+Poganjanje z: odstrani 300 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 4.5382540000000517466
+Poganjanje z: odstrani 10 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 1.382959000000028027
+Poganjanje z: odstrani 50 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 6.579127999999855092
+Poganjanje z: odstrani 100 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 12.89965000000006512
+Poganjanje z: odstrani 200 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 25.470111999999971886
+Poganjanje z: odstrani 300 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 38.082474000000047454
+Poganjanje z: odstrani 10 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 1.0049949999997807026
+Poganjanje z: odstrani 50 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 4.898645999999871492
+Poganjanje z: odstrani 100 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 9.7560760000001209846
+Poganjanje z: odstrani 200 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 19.32473800000002484
+Poganjanje z: odstrani 300 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 28.364463999999998123
+Poganjanje z: odstrani 10 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 0.11632000000008702045
+Poganjanje z: odstrani 50 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 0.56931200000008175266
+Poganjanje z: odstrani 100 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 1.1063249999999698048
+Poganjanje z: odstrani 200 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 2.1156579999999394204
+Poganjanje z: odstrani 300 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 3.0406179999999949359
+Poganjanje z: odstrani 10 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 0.79020500000001447916
+Poganjanje z: odstrani 50 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 3.854217999999946187
+Poganjanje z: odstrani 100 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 7.5690729999998893618
+Poganjanje z: odstrani 200 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 14.742532999999866661
+Poganjanje z: odstrani 300 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 21.951588000000128886
+Poganjanje z: odstrani 10 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 0.1703549999999722786
+Poganjanje z: odstrani 50 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 0.82956899999999222928
+Poganjanje z: odstrani 100 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 1.6265109999999367574
+Poganjanje z: odstrani 200 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 3.0973699999999553256
+Poganjanje z: odstrani 300 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 4.5334410000000389118
+Poganjanje z: odstrani 10 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 1.374062999999978274
+Poganjanje z: odstrani 50 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 6.5978939999999965949
+Poganjanje z: odstrani 100 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 12.960225999999920532
+Poganjanje z: odstrani 200 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 25.558671999999887703
+Poganjanje z: odstrani 300 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 38.100177000000030603
+Poganjanje z: odstrani 10 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 1.0101160000001527806
+Poganjanje z: odstrani 50 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 4.9394480000000839937
+Poganjanje z: odstrani 100 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 9.9767979999999170104
+Poganjanje z: odstrani 200 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 19.695910000000139917
+Poganjanje z: odstrani 300 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 28.57279700000003686
+Poganjanje z: odstrani 10 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 0.11677099999997153645
+Poganjanje z: odstrani 50 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 0.56987099999992096855
+Poganjanje z: odstrani 100 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 1.105373000000099637
+Poganjanje z: odstrani 200 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 2.1106230000000323344
+Poganjanje z: odstrani 300 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 3.0436359999998785497
+Poganjanje z: odstrani 10 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 0.7949710000000322907
+Poganjanje z: odstrani 50 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 3.8515910000000985747
+Poganjanje z: odstrani 100 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 7.5779830000001311419
+Poganjanje z: odstrani 200 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 14.762112999999999374
+Poganjanje z: odstrani 300 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 21.906962999999905151
+Poganjanje z: odstrani 10 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 0.16986700000006749178
+Poganjanje z: odstrani 50 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 0.82409299999994800601
+Poganjanje z: odstrani 100 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 1.6230060000000321452
+Poganjanje z: odstrani 200 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 3.0947499999999763531
+Poganjanje z: odstrani 300 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 4.535098000000061802
+Poganjanje z: odstrani 10 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 1.3731749999999465217
+Poganjanje z: odstrani 50 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 6.6032820000000356231
+Poganjanje z: odstrani 100 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 12.952680000000100335
+Poganjanje z: odstrani 200 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 25.715198000000100365
+Poganjanje z: odstrani 300 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 38.215977000000066255
+Poganjanje z: odstrani 10 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 1.0137760000000071159
+Poganjanje z: odstrani 50 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 4.9171340000000327564
+Poganjanje z: odstrani 100 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 9.7787789999999858992
+Poganjanje z: odstrani 200 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 19.389022999999951935
+Poganjanje z: odstrani 300 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 28.520598999999947409
+Poganjanje z: odstrani 10 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 0.11706299999991642835
+Poganjanje z: odstrani 50 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 0.58369099999981699511
+Poganjanje z: odstrani 100 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 1.1038220000000364962
+Poganjanje z: odstrani 200 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 2.112364999999954307
+Poganjanje z: odstrani 300 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 3.0363089999998464918
+Poganjanje z: odstrani 10 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 0.79972700000007534982
+Poganjanje z: odstrani 50 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 3.8563209999999799038
+Poganjanje z: odstrani 100 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 7.6235489999999117572
+Poganjanje z: odstrani 200 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 14.796563999999989392
+Poganjanje z: odstrani 300 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 21.991662000000133048
+Poganjanje z: odstrani 10 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 0.16984100000013313547
+Poganjanje z: odstrani 50 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 0.82920699999999669672
+Poganjanje z: odstrani 100 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 1.6200420000000121945
+Poganjanje z: odstrani 200 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 3.0932470000000193977
+Poganjanje z: odstrani 300 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 4.5255629999999200663
+Poganjanje z: odstrani 10 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 1.3680509999999230786
+Poganjanje z: odstrani 50 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 6.7329720000000179425
+Poganjanje z: odstrani 100 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 13.066735000000107902
+Poganjanje z: odstrani 200 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 25.958962999999812382
+Poganjanje z: odstrani 300 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 38.409726999999975305
+Poganjanje z: odstrani 10 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 1.0386249999999108695
+Poganjanje z: odstrani 50 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 4.9621489999999539577
+Poganjanje z: odstrani 100 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 9.9377310000002125889
+Poganjanje z: odstrani 200 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 19.647478000000091924
+Poganjanje z: odstrani 300 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 28.552116999999952895
+Poganjanje z: odstrani 10 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 0.11702300000001741864
+Poganjanje z: odstrani 50 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 0.57108599999992293306
+Poganjanje z: odstrani 100 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 1.1430820000000494474
+Poganjanje z: odstrani 200 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 2.1935999999998330168
+Poganjanje z: odstrani 300 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 3.306777999999894746
+Poganjanje z: odstrani 10 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 0.8322740000000976579
+Poganjanje z: odstrani 50 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 3.8671429999999418214
+Poganjanje z: odstrani 100 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 7.6098130000000310247
+Poganjanje z: odstrani 200 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 14.866669999999885476
+Poganjanje z: odstrani 300 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 22.212872000000061234
+Poganjanje z: odstrani 10 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 0.17195500000002539309
+Poganjanje z: odstrani 50 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 0.82588099999998121348
+Poganjanje z: odstrani 100 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 1.6381020000001171866
+Poganjanje z: odstrani 200 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 3.1776749999999083229
+Poganjanje z: odstrani 300 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 4.6432210000000395667
+Poganjanje z: odstrani 10 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 1.386623000000099637
+Poganjanje z: odstrani 50 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 6.6732839999999669089
+Poganjanje z: odstrani 100 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 13.199316000000180793
+Poganjanje z: odstrani 200 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 25.531713999999965381
+Poganjanje z: odstrani 300 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 38.76899299999968207
+Poganjanje z: odstrani 10 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 1.0083460000000741275
+Poganjanje z: odstrani 50 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 5.0532369999996262777
+Poganjanje z: odstrani 100 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 9.9417849999999816646
+Poganjanje z: odstrani 200 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 19.756508999999823573
+Poganjanje z: odstrani 300 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 28.912915999999768246
+Poganjanje z: odstrani 10 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 0.13112899999987348565
+Poganjanje z: odstrani 50 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 0.58307100000001810258
+Poganjanje z: odstrani 100 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 1.1359760000000278524
+Poganjanje z: odstrani 200 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 2.146784999999908905
+Poganjanje z: odstrani 300 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 3.0639719999999215361
+Poganjanje z: odstrani 10 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 0.80426699999998163548
+Poganjanje z: odstrani 50 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 3.959187999999812746
+Poganjanje z: odstrani 100 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 7.7655329999997775303
+Poganjanje z: odstrani 200 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 14.993131000000175845
+Poganjanje z: odstrani 300 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 22.097248999999919761
+Poganjanje z: odstrani 10 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 0.17113999999992302037
+Poganjanje z: odstrani 50 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 0.83142799999995986582
+Poganjanje z: odstrani 100 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 1.6276169999996454862
+Poganjanje z: odstrani 200 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 3.1170969999998305866
+Poganjanje z: odstrani 300 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 4.6352249999999912689
+Poganjanje z: odstrani 10 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 1.3823529999999664142
+Poganjanje z: odstrani 50 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 6.6255610000002889137
+Poganjanje z: odstrani 100 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 13.117130999999972119
+Poganjanje z: odstrani 200 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 25.829021000000011554
+Poganjanje z: odstrani 300 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 38.59696299999995972
+Poganjanje z: odstrani 10 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 1.0315899999995963299
+Poganjanje z: odstrani 50 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 4.9495079999996960396
+Poganjanje z: odstrani 100 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 9.8230800000001181616
+Poganjanje z: odstrani 200 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 19.454594000000270171
+Poganjanje z: odstrani 300 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 28.571219000000382948
+Poganjanje z: odstrani 10 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 0.12640499999997700797
+Poganjanje z: odstrani 50 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 0.57312899999988076161
+Poganjanje z: odstrani 100 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 1.1280770000003030873
+Poganjanje z: odstrani 200 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 2.1379440000000613509
+Poganjanje z: odstrani 300 šivov na sliki velikosti 1428 × 968
+
+Time GPU: 3.0718689999998787243
+Poganjanje z: odstrani 10 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 0.80621400000018184073
+Poganjanje z: odstrani 50 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 3.871225999999751366
+Poganjanje z: odstrani 100 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 7.6092570000000705477
+Poganjanje z: odstrani 200 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 14.910745000000133587
+Poganjanje z: odstrani 300 šivov na sliki velikosti 3922 × 2616
+
+Time GPU: 22.026260999999976775
+Poganjanje z: odstrani 10 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 0.18062999999983730959
+Poganjanje z: odstrani 50 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 0.83806599999979880522
+Poganjanje z: odstrani 100 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 1.6326060000001234584
+Poganjanje z: odstrani 200 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 3.1240920000000187429
+Poganjanje z: odstrani 300 šivov na sliki velikosti 1920 × 1080
+
+Time GPU: 4.5516680000000633299
+Poganjanje z: odstrani 10 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 1.3820059999998193234
+Poganjanje z: odstrani 50 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 6.6350139999999555585
+Poganjanje z: odstrani 100 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 13.030842000000120606
+Poganjanje z: odstrani 200 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 25.695204000000103406
+Poganjanje z: odstrani 300 šivov na sliki velikosti 5177 × 3456
+
+Time GPU: 38.296898000000055617
+Poganjanje z: odstrani 10 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 1.0185830000000350992
+Poganjanje z: odstrani 50 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 4.9489819999998871936
+Poganjanje z: odstrani 100 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 9.8324800000000323053
+Poganjanje z: odstrani 200 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 19.507799999999861029
+Poganjanje z: odstrani 300 šivov na sliki velikosti 3276 × 4096
+
+Time GPU: 28.732066000000031636
