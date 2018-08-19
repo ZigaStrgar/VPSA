@@ -105,7 +105,7 @@ __kernel void pixel(
     
     tempPixel = sqrt((float)(Gx * Gx + Gy * Gy));
     
-    if(x < height){
+    if(x < width){
         if (tempPixel > 255)
             output[g_idx] = 255;
         else

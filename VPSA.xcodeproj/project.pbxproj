@@ -9,12 +9,16 @@
 /* Begin PBXBuildFile section */
 		51048E7C1FCD8DF000F5AF2D /* kernel_template.cl in Sources */ = {isa = PBXBuildFile; fileRef = 51048E7A1FCD8DF000F5AF2D /* kernel_template.cl */; };
 		51048E7D1FCD8DF000F5AF2D /* template.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 51048E7B1FCD8DF000F5AF2D /* template.cpp */; };
+		51129BAC200BC7D0001C2566 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 51129BAB200BC7D0001C2566 /* main.c */; };
 		511D11BB1FAB0C98008E9A22 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 511D11BA1FAB0C98008E9A22 /* main.c */; };
+		5127CE971FE9457F0045DC48 /* mpi_test.c in Sources */ = {isa = PBXBuildFile; fileRef = 5127CE941FE9457F0045DC48 /* mpi_test.c */; };
 		517A68321F8FA0FE00A5B6CF /* predavanje_2.c in Sources */ = {isa = PBXBuildFile; fileRef = 517A68311F8FA0FE00A5B6CF /* predavanje_2.c */; };
 		517A683C1F8FC96100A5B6CF /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 517A683B1F8FC96100A5B6CF /* main.c */; };
 		51A4F7381FB1DD6B004A1FDD /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 51A4F7371FB1DD6B004A1FDD /* main.c */; };
 		51AA86F71FBDD683005FDDB7 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 51AA86F61FBDD683005FDDB7 /* main.c */; };
 		51B223231FD6913A0084872F /* sobel.cl in Sources */ = {isa = PBXBuildFile; fileRef = 51B223221FD6913A0084872F /* sobel.cl */; };
+		51B23611200A45CA0043E8EE /* cpe.c in Sources */ = {isa = PBXBuildFile; fileRef = 51B23610200A45CA0043E8EE /* cpe.c */; };
+		51B23614200A46F50043E8EE /* sobel.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 51B23613200A46F50043E8EE /* sobel.cpp */; };
 		51BAA78D1F9F5B6F00576AA4 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 51BAA78C1F9F5B6F00576AA4 /* main.c */; };
 		51BAA7951F9F6DA700576AA4 /* pthread_barrier.c in Frameworks */ = {isa = PBXBuildFile; fileRef = 51BAA7941F9F6DA700576AA4 /* pthread_barrier.c */; };
 		51BAA79D1FA1C47F00576AA4 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 51BAA79C1FA1C47F00576AA4 /* main.c */; };
@@ -27,6 +31,15 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
+		51129BA7200BC7D0001C2566 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
 		511D11B61FAB0C98008E9A22 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
@@ -122,11 +135,19 @@
 /* Begin PBXFileReference section */
 		51048E7A1FCD8DF000F5AF2D /* kernel_template.cl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.opencl; path = kernel_template.cl; sourceTree = "<group>"; };
 		51048E7B1FCD8DF000F5AF2D /* template.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = template.cpp; sourceTree = "<group>"; };
+		51129BA9200BC7D0001C2566 /* Seminarska */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Seminarska; sourceTree = BUILT_PRODUCTS_DIR; };
+		51129BAB200BC7D0001C2566 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		51129BB0200BC876001C2566 /* image.pgm */ = {isa = PBXFileReference; lastKnownFileType = file; path = image.pgm; sourceTree = "<group>"; };
+		51129BB1200BC876001C2566 /* pgm.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = pgm.h; sourceTree = "<group>"; };
 		511581391FCFFCB30050F3FF /* scalarProduct.cu */ = {isa = PBXFileReference; lastKnownFileType = text; path = scalarProduct.cu; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.c; };
 		511D11B81FAB0C98008E9A22 /* Predavanje5 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Predavanje5; sourceTree = BUILT_PRODUCTS_DIR; };
 		511D11BA1FAB0C98008E9A22 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		512455651FBD8865008D4D3F /* getdevprop.cu */ = {isa = PBXFileReference; lastKnownFileType = text; path = getdevprop.cu; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.c; };
+		5127CE941FE9457F0045DC48 /* mpi_test.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = mpi_test.c; path = VPSA/Naloge/Naloga7/mpi_test.c; sourceTree = SOURCE_ROOT; };
+		5127CE951FE9457F0045DC48 /* mpi_test.xrsl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = mpi_test.xrsl; path = VPSA/Naloge/Naloga7/mpi_test.xrsl; sourceTree = SOURCE_ROOT; };
+		5127CE961FE9457F0045DC48 /* mpi_test.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; name = mpi_test.sh; path = VPSA/Naloge/Naloga7/mpi_test.sh; sourceTree = SOURCE_ROOT; };
 		515FD7AC1FBDA08C0082488E /* vectorAddSerial.cu */ = {isa = PBXFileReference; lastKnownFileType = text; path = vectorAddSerial.cu; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.c; };
+		516CB8A62004EF9E00E536DB /* naloga_10.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = naloga_10.c; sourceTree = "<group>"; };
 		517A68231F8FA0D300A5B6CF /* VPSA */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = VPSA; sourceTree = BUILT_PRODUCTS_DIR; };
 		517A68311F8FA0FE00A5B6CF /* predavanje_2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = predavanje_2.c; sourceTree = "<group>"; };
 		517A68391F8FC96100A5B6CF /* Naloga1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Naloga1; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -137,6 +158,9 @@
 		51AA86F61FBDD683005FDDB7 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		51B223221FD6913A0084872F /* sobel.cl */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.opencl; path = sobel.cl; sourceTree = "<group>"; };
 		51B223241FD6915D0084872F /* sobel.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = sobel.cpp; sourceTree = "<group>"; };
+		51B23610200A45CA0043E8EE /* cpe.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = cpe.c; sourceTree = "<group>"; };
+		51B23612200A46F50043E8EE /* pgm.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = pgm.h; sourceTree = "<group>"; };
+		51B23613200A46F50043E8EE /* sobel.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = sobel.cpp; sourceTree = "<group>"; };
 		51BAA78A1F9F5B6F00576AA4 /* Naloga3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Naloga3; sourceTree = BUILT_PRODUCTS_DIR; };
 		51BAA78C1F9F5B6F00576AA4 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		51BAA7921F9F6C9D00576AA4 /* pthread_barrier.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = pthread_barrier.h; path = ../../../../Desktop/pthread_barrier.h; sourceTree = "<group>"; };
@@ -157,6 +181,13 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		51129BA6200BC7D0001C2566 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		511D11B51FAB0C98008E9A22 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -231,6 +262,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		51129BAA200BC7D0001C2566 /* Seminarska */ = {
+			isa = PBXGroup;
+			children = (
+				51129BB0200BC876001C2566 /* image.pgm */,
+				51129BB1200BC876001C2566 /* pgm.h */,
+				51129BAB200BC7D0001C2566 /* main.c */,
+			);
+			path = Seminarska;
+			sourceTree = "<group>";
+		};
 		511D11B91FAB0C98008E9A22 /* Predavanje5 */ = {
 			isa = PBXGroup;
 			children = (
@@ -250,10 +291,23 @@
 			path = Cuda;
 			sourceTree = "<group>";
 		};
+		5127CE931FE944C60045DC48 /* Naloga7 */ = {
+			isa = PBXGroup;
+			children = (
+				5127CE941FE9457F0045DC48 /* mpi_test.c */,
+				5127CE961FE9457F0045DC48 /* mpi_test.sh */,
+				5127CE951FE9457F0045DC48 /* mpi_test.xrsl */,
+				516CB8A62004EF9E00E536DB /* naloga_10.c */,
+			);
+			name = Naloga7;
+			path = "New Group";
+			sourceTree = "<group>";
+		};
 		517A681A1F8FA0D200A5B6CF = {
 			isa = PBXGroup;
 			children = (
 				517A68251F8FA0D300A5B6CF /* VPSA */,
+				51129BAA200BC7D0001C2566 /* Seminarska */,
 				517A68241F8FA0D300A5B6CF /* Products */,
 				51BAA7911F9F6C9D00576AA4 /* Frameworks */,
 			);
@@ -272,6 +326,7 @@
 				51A4F7351FB1DD6B004A1FDD /* Naloga4 */,
 				51C28EBB1FB4467C0094DB37 /* Predavanje6 */,
 				51AA86F41FBDD683005FDDB7 /* Naloga5 */,
+				51129BA9200BC7D0001C2566 /* Seminarska */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -302,6 +357,8 @@
 		517A682E1F8FA0E300A5B6CF /* Naloge */ = {
 			isa = PBXGroup;
 			children = (
+				51B2360F200A45B20043E8EE /* Seminarska */,
+				5127CE931FE944C60045DC48 /* Naloga7 */,
 				51DC10B41FC45A41000A919C /* Naloga6 */,
 				51AA86F51FBDD683005FDDB7 /* Naloga5 */,
 				51A4F7361FB1DD6B004A1FDD /* Naloga4 */,
@@ -341,6 +398,16 @@
 				51AA86F61FBDD683005FDDB7 /* main.c */,
 			);
 			path = Naloga5;
+			sourceTree = "<group>";
+		};
+		51B2360F200A45B20043E8EE /* Seminarska */ = {
+			isa = PBXGroup;
+			children = (
+				51B23612200A46F50043E8EE /* pgm.h */,
+				51B23613200A46F50043E8EE /* sobel.cpp */,
+				51B23610200A45CA0043E8EE /* cpe.c */,
+			);
+			path = Seminarska;
 			sourceTree = "<group>";
 		};
 		51BAA78B1F9F5B6F00576AA4 /* Naloga3 */ = {
@@ -410,6 +477,24 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		51129BA8200BC7D0001C2566 /* Seminarska */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 51129BAF200BC7D0001C2566 /* Build configuration list for PBXNativeTarget "Seminarska" */;
+			buildPhases = (
+				51129BA5200BC7D0001C2566 /* Sources */,
+				51129BA6200BC7D0001C2566 /* Frameworks */,
+				51129BA7200BC7D0001C2566 /* CopyFiles */,
+				51E64EDD200BCB45003BFBB0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Seminarska;
+			productName = Seminarska;
+			productReference = 51129BA9200BC7D0001C2566 /* Seminarska */;
+			productType = "com.apple.product-type.tool";
+		};
 		511D11B71FAB0C98008E9A22 /* Predavanje5 */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 511D11BE1FAB0C98008E9A22 /* Build configuration list for PBXNativeTarget "Predavanje5" */;
@@ -592,6 +677,10 @@
 				LastUpgradeCheck = 0900;
 				ORGANIZATIONNAME = "Ziga Strgar";
 				TargetAttributes = {
+					51129BA8200BC7D0001C2566 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
 					511D11B71FAB0C98008E9A22 = {
 						CreatedOnToolsVersion = 9.0.1;
 						ProvisioningStyle = Automatic;
@@ -656,11 +745,30 @@
 				51A4F7341FB1DD6B004A1FDD /* Naloga4 */,
 				51C28EBA1FB4467C0094DB37 /* Predavanje6 */,
 				51AA86F31FBDD683005FDDB7 /* Naloga5 */,
+				51129BA8200BC7D0001C2566 /* Seminarska */,
 			);
 		};
 /* End PBXProject section */
 
+/* Begin PBXResourcesBuildPhase section */
+		51E64EDD200BCB45003BFBB0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
+		51129BA5200BC7D0001C2566 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				51129BAC200BC7D0001C2566 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		511D11B41FAB0C98008E9A22 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -673,9 +781,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				51B23614200A46F50043E8EE /* sobel.cpp in Sources */,
+				51B23611200A45CA0043E8EE /* cpe.c in Sources */,
 				517A68321F8FA0FE00A5B6CF /* predavanje_2.c in Sources */,
 				51DC10B91FC45AB2000A919C /* kernel.cl in Sources */,
 				51B223231FD6913A0084872F /* sobel.cl in Sources */,
+				5127CE971FE9457F0045DC48 /* mpi_test.c in Sources */,
 				51DC10BA1FC45AB2000A919C /* main.cpp in Sources */,
 				51048E7C1FCD8DF000F5AF2D /* kernel_template.cl in Sources */,
 				51C821201F962E2E0089BDBE /* serverLinux.cpp in Sources */,
@@ -750,6 +861,24 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
+		51129BAD200BC7D0001C2566 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = MP6X64M7KA;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		51129BAE200BC7D0001C2566 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = MP6X64M7KA;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
 		511D11BC1FAB0C98008E9A22 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -1044,6 +1173,15 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		51129BAF200BC7D0001C2566 /* Build configuration list for PBXNativeTarget "Seminarska" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				51129BAD200BC7D0001C2566 /* Debug */,
+				51129BAE200BC7D0001C2566 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		511D11BE1FAB0C98008E9A22 /* Build configuration list for PBXNativeTarget "Predavanje5" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (

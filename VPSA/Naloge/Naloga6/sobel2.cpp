@@ -23,7 +23,7 @@ void sobelGPU(PGMData *in, PGMData *out)
     char *source_str;
     size_t source_size;
     
-    fp = fopen("sobel.cl", "r");
+    fp = fopen("sobel2.cl", "r");
     if (!fp)
     {
         fprintf(stderr, ":-(#\n");
@@ -62,13 +62,9 @@ void sobelGPU(PGMData *in, PGMData *out)
     // kontekst, naprava, INORDER/OUTOFORDER, napake
     
     // Delitev dela
-    /*size_t local_item_size = WORKGROUP_SIZE;
+    size_t local_item_size = WORKGROUP_SIZE;
     size_t num_groups = ((imageSize - 1) / local_item_size + 1);
-    size_t global_item_size = num_groups*local_item_size;*/
-    
-    size_t local_size[] = {16, 16};
-    size_t group_count[] = {(in->width - 1) / 16 + 1, (in->height - 1) / 16 + 1};
-    size_t global_size[] = {group_count[0] * 16, group_count[1] * 16};
+    size_t global_item_size = num_groups*local_item_size;
     
     // Alokacija pomnilnika na napravi
     cl_mem input_mem_obj = clCreateBuffer(context, CL_MEM_READ_ONLY | CL_MEM_USE_HOST_PTR, imageSize * sizeof(int), in->image, &ret);
@@ -108,7 +104,7 @@ void sobelGPU(PGMData *in, PGMData *out)
     // scepec, stevilka argumenta, velikost podatkov, kazalec na podatke
     
     // scepec: zagon
-    ret = clEnqueueNDRangeKernel(command_queue, kernel, 2, NULL, global_size, local_size, 0, NULL, NULL);
+    ret = clEnqueueNDRangeKernel(command_queue, kernel, 1, NULL, &global_item_size, &local_item_size, 0, NULL, NULL);
     // vrsta, scepec, dimenzionalnost, mora biti NULL,
     // kazalec na stevilo vseh niti, kazalec na lokalno stevilo niti,
     // dogodki, ki se morajo zgoditi pred klicem
@@ -118,7 +114,7 @@ void sobelGPU(PGMData *in, PGMData *out)
     // branje v pomnilnik iz naparave, 0 = offset
     // zadnji trije - dogodki, ki se morajo zgoditi prej
     
-    // clean up
+    // clean shit up
     ret = clFlush(command_queue);
     ret = clFinish(command_queue);
     ret = clReleaseKernel(kernel);
@@ -133,7 +129,7 @@ int main(int argc, char *argv[])
 {
     PGMData slikaInput, slikaGPU;
     
-    readPGM("Jax_OriginalSkin.pgm", &slikaInput);
+    readPGM("desktop.pgm", &slikaInput);
     slikaGPU.height = slikaInput.height;
     slikaGPU.width = slikaInput.width;
     slikaGPU.max_gray = slikaInput.max_gray;
@@ -150,3 +146,4 @@ int main(int argc, char *argv[])
     
     return 0;
 }
+
